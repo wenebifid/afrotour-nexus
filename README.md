@@ -15,8 +15,6 @@ Before you begin, ensure you have the following installed:
 
 ## Installation
 
-Follow these steps to get your development environment running:
-
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/afrotour-nexus.git
